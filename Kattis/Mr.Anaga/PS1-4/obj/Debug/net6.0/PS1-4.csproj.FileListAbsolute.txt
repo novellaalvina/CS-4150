@@ -1,0 +1,15 @@
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/PS1-4/PS1-4/bin/Debug/net6.0/PS1-4
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/PS1-4/PS1-4/bin/Debug/net6.0/PS1-4.deps.json
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/PS1-4/PS1-4/bin/Debug/net6.0/PS1-4.runtimeconfig.json
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/PS1-4/PS1-4/bin/Debug/net6.0/PS1-4.dll
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/PS1-4/PS1-4/bin/Debug/net6.0/PS1-4.pdb
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/PS1-4/PS1-4/obj/Debug/net6.0/PS1-4.csproj.AssemblyReference.cache
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/PS1-4/PS1-4/obj/Debug/net6.0/PS1-4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/PS1-4/PS1-4/obj/Debug/net6.0/PS1-4.AssemblyInfoInputs.cache
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/PS1-4/PS1-4/obj/Debug/net6.0/PS1-4.AssemblyInfo.cs
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/PS1-4/PS1-4/obj/Debug/net6.0/PS1-4.csproj.CoreCompileInputs.cache
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/PS1-4/PS1-4/obj/Debug/net6.0/PS1-4.dll
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/PS1-4/PS1-4/obj/Debug/net6.0/refint/PS1-4.dll
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/PS1-4/PS1-4/obj/Debug/net6.0/PS1-4.pdb
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/PS1-4/PS1-4/obj/Debug/net6.0/PS1-4.genruntimeconfig.cache
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/PS1-4/PS1-4/obj/Debug/net6.0/ref/PS1-4.dll
