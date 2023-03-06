@@ -115,15 +115,4 @@ class Node implements Comparable<Node>
     }
 }
 
-//class Prev_dist
-//{
-//    public Node prev;
-//    public double dist;
-//
-//    public Prev_dist(Node prev, double dist)
-//    {
-//        this.prev = prev;
-//        this.dist = dist;
-//    }
-//}
 
