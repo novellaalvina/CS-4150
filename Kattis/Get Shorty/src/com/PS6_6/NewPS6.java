@@ -42,7 +42,6 @@ public class NewPS6 {
         // vertex and edges
 
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-//        int nm[] = new int[2];
 
         int n = -1; // # vertex
         int m = -1; // # edges
