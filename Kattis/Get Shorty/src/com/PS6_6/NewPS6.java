@@ -16,11 +16,6 @@ public class NewPS6 {
 
         double[] alg = new double[d+1];
 
-//        for(int v: graph.keySet())
-//        {
-//            alg[v] = 0;
-//        }
-
         alg[s] = 1;
 
         pq.add(new Connection(s,1));
@@ -109,8 +104,3 @@ class Connection implements Comparable<Connection>{
         return 1;
     }
 }
-
-
-
-
-
