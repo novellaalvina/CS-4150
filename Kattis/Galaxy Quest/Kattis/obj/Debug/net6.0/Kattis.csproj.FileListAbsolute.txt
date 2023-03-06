@@ -1,0 +1,15 @@
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/Kattis/Kattis/bin/Debug/net6.0/Kattis
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/Kattis/Kattis/bin/Debug/net6.0/Kattis.deps.json
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/Kattis/Kattis/bin/Debug/net6.0/Kattis.runtimeconfig.json
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/Kattis/Kattis/bin/Debug/net6.0/Kattis.dll
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/Kattis/Kattis/bin/Debug/net6.0/Kattis.pdb
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/Kattis/Kattis/obj/Debug/net6.0/Kattis.csproj.AssemblyReference.cache
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/Kattis/Kattis/obj/Debug/net6.0/Kattis.GeneratedMSBuildEditorConfig.editorconfig
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/Kattis/Kattis/obj/Debug/net6.0/Kattis.AssemblyInfoInputs.cache
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/Kattis/Kattis/obj/Debug/net6.0/Kattis.AssemblyInfo.cs
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/Kattis/Kattis/obj/Debug/net6.0/Kattis.csproj.CoreCompileInputs.cache
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/Kattis/Kattis/obj/Debug/net6.0/Kattis.dll
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/Kattis/Kattis/obj/Debug/net6.0/refint/Kattis.dll
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/Kattis/Kattis/obj/Debug/net6.0/Kattis.pdb
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/Kattis/Kattis/obj/Debug/net6.0/Kattis.genruntimeconfig.cache
+/Users/novellaalvina/Documents/US/UTAH/Lessons/Spring 2023/CS 4150/Kattis/Kattis/obj/Debug/net6.0/ref/Kattis.dll
